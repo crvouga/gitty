@@ -45,13 +45,13 @@
     "github:apply": "node scripts/github-settings.ts"
   },
   "dependencies": {
-    "@hono/node-server": "^2.1.6",
+    "@hono/node-server": "^2.1.9",
     "@modelcontextprotocol/sdk": "^1.32.2",
-    "@rocicorp/zero": "1.11.4",
+    "@rocicorp/zero": "1.12.0",
     "fflate": "^0.8.3",
-    "hono": "^4.13.17",
-    "openid-client": "^6.8.9",
-    "postgres": "^4.1.0",
+    "hono": "^4.13.19",
+    "openid-client": "^6.9.0",
+    "postgres": "^4.1.1",
     "solid-js": "^1.9.18",
     "zod": "^4.6.7"
   },
